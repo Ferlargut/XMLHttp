@@ -1,0 +1,27 @@
+{
+  "name": "xhr-js-jquery",
+  "version": "1.0.0",
+  "description": "Probandon XMLHttpRequest con js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ferlargut/XMLHttp.git"
+  },
+  "keywords": [
+    "js",
+    "xhr",
+    "json"
+  ],
+  "author": "Fer Larios <ferlargut@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ferlargut/XMLHttp/issues"
+  },
+  "homepage": "https://github.com/Ferlargut/XMLHttp#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
